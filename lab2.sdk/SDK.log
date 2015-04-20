@@ -1,0 +1,21 @@
+14:13:32 INFO  : Processing command line option -hwspec C:/Users/Administrator/Desktop/lablv_357/lablv_357.sdk/system_wrapper.hdf.
+14:13:40 WARN  : Unable to obtain port 2450 for use by XSDB Server, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+14:13:41 INFO  : Launching XSDB server: xsdb.bat -s E:/vivado/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2457
+12:49:05 INFO  : Processing command line option -hwspec C:/Users/Administrator/Desktop/lab2/lab2.sdk/system_wrapper.hdf.
+12:49:08 WARN  : Unable to obtain port 2450 for use by XSDB Server, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+12:49:09 INFO  : Launching XSDB server: xsdb.bat -s E:/vivado/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2457
+12:54:55 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Administrator\Desktop\lablv_357\lablv_357.sdk\test_bsp\system.mss
+12:54:55 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Administrator\Desktop\lablv_357\lablv_357.sdk\test_bsp\system.mss
+12:54:55 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Administrator\Desktop\lablv_357\lablv_357.sdk\test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\Administrator\Desktop\lablv_357\lablv_357.sdk\test_bsp\system.mss
+12:58:05 INFO  : BSP Project P/standalone_bsp_0 has been successfully migrated.
+12:58:27 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Administrator\Desktop\lablv_357\lablv_357.sdk\test_bsp\system.mss
+12:58:27 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Administrator\Desktop\lablv_357\lablv_357.sdk\test_bsp\system.mss
+12:58:27 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Administrator\Desktop\lablv_357\lablv_357.sdk\test_bsp\system.mss
+12:58:27 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Administrator\Desktop\lablv_357\lablv_357.sdk\test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\Administrator\Desktop\lablv_357\lablv_357.sdk\test_bsp\system.mss
+12:58:27 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Administrator\Desktop\lablv_357\lablv_357.sdk\test_bsp\system.mss
+12:58:27 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Administrator\Desktop\lablv_357\lablv_357.sdk\test_bsp\system.mss
+12:58:27 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Administrator\Desktop\lablv_357\lablv_357.sdk\test_bsp\system.mss
+12:58:27 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Administrator\Desktop\lablv_357\lablv_357.sdk\test_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\Administrator\Desktop\lablv_357\lablv_357.sdk\test_bsp\system.mss
